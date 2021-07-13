@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Purple
+2. Volvo
+3. Writing
+4. Learning! 
+- unordered list! 
+- another one! 
